@@ -1,0 +1,21 @@
+grocery
+transportation
+housing
+utilities
+clothing
+entertainment
+dining out
+health and wellness
+electronics
+education
+travel
+home maintenance
+personal care
+pet care
+gifts and donations
+subscription services
+hobbies
+fitness
+insurance
+miscellaneous
+

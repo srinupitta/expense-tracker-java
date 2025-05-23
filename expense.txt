@@ -1,0 +1,49 @@
+1,1500,grocery,grocery shopping for the month,05/03/2023
+2,1800,travel,international vacation expenses,15/04/2023
+3,5000,housing,home renovation materials,28/06/2023
+4,1200,entertainment,concert tickets for favorite band,10/08/2023
+5,800,health and wellness,annual medical check-up,22/09/2023
+6,2000,electronics,new laptop purchase,05/11/2023
+7,1500,dining out,fine dining anniversary celebration,17/12/2023
+8,2500,education,online course fees,30/01/2024
+9,1000,home maintenance,plumbing repairs,12/03/2024
+10,1800,transportation,flight tickets for family reunion,25/04/2024
+11,1500,personal care,spa and wellness retreat,08/06/2024
+12,2000,pet care,veterinary bills for pet emergency,20/07/2024
+13,1200,gifts and donations,charity donation,02/09/2024
+14,800,subscription services,annual streaming services subscription,15/10/2024
+15,500,hobbies,photography equipment,28/11/2024
+16,1000,fitness,yearly gym membership renewal,10/01/2025
+17,1500,insurance,annual health insurance premium,22/02/2025
+18,2500,clothing,wardrobe update,05/04/2025
+19,1800,utilities,solar panel installation,17/05/2025
+20,2000,miscellaneous,unexpected expenses,30/06/2025
+21,1200,grocery,weekly grocery shopping,12/08/2025
+22,1500,travel,road trip expenses,25/09/2025
+23,1000,housing,monthly rent payment,08/11/2025
+24,800,entertainment,movie night with friends,20/12/2025
+25,1500,health and wellness,fitness class membership,02/02/2026
+26,1800,electronics,new smartphone purchase,15/03/2026
+27,500,dining out,casual dinner with family,28/04/2026
+28,2000,education,textbook and study materials,10/06/2026
+29,1200,home maintenance,roof repairs,22/07/2026
+31,1500,personal care,skincare products,18/10/2026
+32,1800,pet care,pet grooming and supplies,30/11/2026
+33,500,gifts and donations,donation to local charity,12/01/2027
+34,2000,subscription services,annual magazine subscription,25/02/2027
+35,1000,hobbies,art supplies,08/04/2027
+36,1500,fitness,home workout equipment,20/05/2027
+37,800,insurance,car insurance premium,02/07/2027
+38,2500,clothing,seasonal wardrobe update,15/08/2027
+39,1800,utilities,water bill payment,28/09/2027
+40,2000,miscellaneous,emergency fund contribution,10/11/2027
+41,1500,grocery,monthly pantry restock,22/12/2027
+42,1800,travel,weekend getaway expenses,05/02/2028
+43,500,housing,home decor purchases,18/03/2028
+44,1200,entertainment,concert tickets for favorite artist,30/04/2028
+45,800,health and wellness,wellness retreat expenses,12/06/2028
+46,2000,electronics,new gaming console,25/07/2028
+47,1500,dining out,celebratory dinner,08/09/2028
+48,2500,education,professional development course,20/10/2028
+49,1000,home maintenance,appliance repairs,02/12/2028
+50,1800,transportation,car maintenance and repairs,15/01/2029
