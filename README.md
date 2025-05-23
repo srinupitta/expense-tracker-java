@@ -50,17 +50,4 @@ The application allows users to add, delete, modify, and view expenses. Addition
 ## Contributing
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your input is highly appreciated!
 
-## License
-This project is licensed under the [GNU General Public License](LICENSE).
-
-## Acknowledgments
-- This project was inspired by the project topics provided under 4 week internship in core java with Upskill Campus (https://upskillcampus.com).
-- Special thanks to the contributors for their valuable feedback and suggestions.
-
-## Contact
-For any inquiries or feedback, please contact the project maintainer:
-- Name :- Yash Sanodiya
-- Email ID :- yashsanodiya169@gmail.com
-
- Made with ❤️ by Yash Sanodiya. 
- Thank you for using the Expense Tracker!
+ 
